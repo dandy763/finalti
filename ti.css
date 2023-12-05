@@ -1,0 +1,51 @@
+html{
+	background-color:black;
+}
+
+
+h1{
+	background-color:red;
+	color:white;
+	width:180;
+	height:30px;	
+	
+}
+
+h2{
+	background-color:blue;
+	color:white;
+	width:450;
+	height:60px;
+	
+	margin-bottom:10;
+}
+
+h3{
+	background-color: green;
+	color:white;
+	width:300;
+	height:60px;
+	
+	margin-bottom:10;
+	
+}
+
+h4{
+	background-color: rgb(135,206,235);
+	color:white;
+	width:300;
+	height:60px;
+	
+	margin-bottom:10;
+
+}
+h5{
+	
+	background-color: rgb(173,255,47);
+	color:white;
+	width:300;
+	height:60px;
+	
+	margin-bottom:10;
+
+}
